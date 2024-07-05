@@ -9,3 +9,5 @@ gem 'pry'
 gem 'rubocop', require: false
 
 gem 'dotenv'
+
+gem 'twitter'
